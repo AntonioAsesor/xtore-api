@@ -1,6 +1,4 @@
 {
-    "name": "antonio/xtore-api",
-    "description": "API para Xtore",
     "require": {
         "php": "^8.2"
     },
