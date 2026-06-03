@@ -2,7 +2,7 @@
     "name": "antonio/xtore-api",
     "description": "API para Xtore",
     "require": {
-        "php": "^8.0"
+        "php": "^8.2"
     },
     "scripts": {
         "start": "php -S 0.0.0.0:$PORT index.php"
